@@ -1,0 +1,7 @@
+.item{
+    background-color:cornflowerblue;
+    display: inline-block;
+    width:400px;
+    height:300px;
+    margin:15px;
+}
